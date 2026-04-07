@@ -1,0 +1,35 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled output
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.a
+*.so
+*.dylib
+
+# Generated files
+*.ppm
+*.png
+
+# WASM generated
+compiler/static/vm.js
+compiler/static/vm.wasm
+
+# Node / Bun
+node_modules/
+.svelte-kit/
+bun.lock
+test/*.gvmb

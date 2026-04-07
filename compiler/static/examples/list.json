@@ -1,0 +1,20 @@
+[
+	{ "name": "Hello World", "file": "hello_world.dsl", "modes": ["rgb"] },
+	{ "name": "Pure SVG", "file": "pure_svg.dsl", "modes": ["rgb"] },
+	{ "name": "Calendar (RGB)", "file": "calendar_feb2026.dsl", "modes": ["rgb"] },
+	{ "name": "SDK Demo", "file": "sdk_demo.ts", "type": "sdk", "modes": ["rgb"] },
+	{ "name": "SDK Calendar (RGB)", "file": "sdk_calendar.ts", "type": "sdk", "modes": ["rgb"] },
+	{ "name": "BW Dashboard", "file": "bw_dashboard.dsl", "modes": ["bw"] },
+	{ "name": "BW Todo List", "file": "bw_todo_list.dsl", "modes": ["bw"] },
+	{ "name": "BWR Price Tag", "file": "bwr_price_tag.dsl", "modes": ["bwr"] },
+	{ "name": "BWR Calendar", "file": "sdk_bwr_calendar.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "BWR Weather", "file": "sdk_bwr_weather.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "BWR Dashboard", "file": "sdk_bwr_dashboard.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "BWR Todo List", "file": "sdk_bwr_todolist.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "BWR Name Card", "file": "sdk_bwr_namecard.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "BWR Calendar 800x480", "file": "sdk_bwr_calendar_800.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "BWR Dashboard 800x480", "file": "sdk_bwr_dashboard_800.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "BWR News Reader 800x480", "file": "sdk_bwr_epaper_800.ts", "type": "sdk", "modes": ["bwr"] },
+	{ "name": "Timer Counter", "file": "sdk_timer_demo.ts", "type": "sdk", "modes": ["rgb"] },
+	{ "name": "Bouncing Circle", "file": "bouncing_circle.ts", "type": "sdk", "modes": ["bwr", "bw", "rgb"] }
+]
