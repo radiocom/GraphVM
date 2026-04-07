@@ -34,7 +34,16 @@ C 核心 + PC 模拟器 + WASM 运行时 + Web 编译器，适合 **E-Ink / 仪�
 
 ---
 
-## 🖼️ 系统架构图
+## � 项目预览
+
+<div align="center">
+  <img src="doc/images/image.png" alt="GraphVM 运行界面截图" width="900" />
+  <p><em>GraphVM 编译器与预览界面截图</em></p>
+</div>
+
+---
+
+## �🖼️ 系统架构图
 
 ```mermaid
 flowchart LR
